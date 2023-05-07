@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(247, 240, 230);
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h3{
+    color: aqua;
+}
+
+hr{
+    border-style: none;
+    border-top-style:dashed;
+    border-color: rgb(237, 231, 189);
+    border-width: 6px;
+    width: 100%;
+}
